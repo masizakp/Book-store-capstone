@@ -21,6 +21,6 @@ The program allow the clerk to:
 - delete books from the database
 - search the database to find a specific book
 
-## Credit
+## Credits
 Masiza KP through HyperionDev Software Engineering course (https://www.hyperiondev.com/)
 
